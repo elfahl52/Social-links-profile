@@ -24,8 +24,8 @@ This is a small, responsive profile card that showcases social links. The goal o
 ## Demo & Preview
 
 - Screenshot: above
-- Live site: https://your-live-site.example (replace with your live URL)
-- Repository: https://github.com/your-username/your-repo (replace with your repo URL)
+- Live site:https://social-links-profile-coral-phi.vercel.app/
+- Repository: https://github.com/elfahl52/Blog-Preview-Card.git
 
 ## Deployment
 
